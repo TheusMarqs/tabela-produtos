@@ -1,0 +1,9 @@
+{
+    "produtos" : [
+        {"id" : 1, "nome" : "RTX 4090 TI", "valor" : 1000, "qtdEstoque" : 20, "dataFab" : "20/05/2022"},
+        {"id" : 2, "nome" : "RTX 3090 TI", "valor" : 1000, "qtdEstoque" : 20, "dataFab" : "20/05/2022"},
+        {"id" : 3, "nome" : "RTX 3080 TI", "valor" : 1000, "qtdEstoque" : 20, "dataFab" : "20/05/2022"},
+        {"id" : 4, "nome" : "RTX 3070 TI", "valor" : 1000, "qtdEstoque" : 20, "dataFab" : "20/05/2022"},
+        {"id" : 5, "nome" : "RTX 2080 TI", "valor" : 1000, "qtdEstoque" : 20, "dataFab" : "20/05/2022"}
+    ]
+}
